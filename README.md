@@ -1,4 +1,4 @@
-# Challenges
+# Coderbyte Challenges
 ## Equivalent Keypresses:
 Write a function that takes an array containing two strings where each string represents keypresses separated by commas. For this problem, a keypress can be either a printable character or a backspace (represented by -B). Your function should determine if the two strings of keypresses are equivalent. You can produce a printable string from such a string of keypresses by having backspaces erase one preceding character. 
 Consider two strings of keypresses equivalent if they produce the same printable string. For example:  
